@@ -2,7 +2,7 @@ Stable Diffusion WebUI for Nix
 ==============================
 
 Nix development shell for [Stable Diffusion
-WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
+web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui).
 Tested on AMD GPU.
 
 Based on:
@@ -25,7 +25,7 @@ Enter the development shell:
     cd stable-diffusion-webui/
     nix develop .
 
-Download and run stable-diffusion-webui:
+Download and run Stable Diffusion web UI:
 
     git clone https://github.com/AUTOMATIC1111/stable-diffusion-webui.git
     cd stable-diffusion-webui/

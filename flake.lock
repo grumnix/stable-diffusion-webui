@@ -34,24 +34,7 @@
     "root": {
       "inputs": {
         "flake-utils": "flake-utils",
-        "nixpkgs": "nixpkgs",
-        "stable_diffusion_webui_src": "stable_diffusion_webui_src"
-      }
-    },
-    "stable_diffusion_webui_src": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1680069509,
-        "narHash": "sha256-XVdPS9k9pTSX0Udo/rNkXK7eVkAREr3QAUOMJnOIm04=",
-        "owner": "AUTOMATIC1111",
-        "repo": "stable-diffusion-webui",
-        "rev": "22bcc7be428c94e9408f589966c2040187245d81",
-        "type": "github"
-      },
-      "original": {
-        "owner": "AUTOMATIC1111",
-        "repo": "stable-diffusion-webui",
-        "type": "github"
+        "nixpkgs": "nixpkgs"
       }
     }
   },
